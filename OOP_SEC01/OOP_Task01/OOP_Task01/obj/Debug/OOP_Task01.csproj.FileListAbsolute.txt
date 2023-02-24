@@ -1,0 +1,8 @@
+C:\Users\maria\source\repos\OOP_Task01\OOP_Task01\bin\Debug\OOP_Task01.exe.config
+C:\Users\maria\source\repos\OOP_Task01\OOP_Task01\bin\Debug\OOP_Task01.exe
+C:\Users\maria\source\repos\OOP_Task01\OOP_Task01\bin\Debug\OOP_Task01.pdb
+C:\Users\maria\source\repos\OOP_Task01\OOP_Task01\obj\Debug\OOP_Task01.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\OOP_Task01\OOP_Task01\obj\Debug\OOP_Task01.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\source\repos\OOP_Task01\OOP_Task01\obj\Debug\OOP_Task01.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\OOP_Task01\OOP_Task01\obj\Debug\OOP_Task01.exe
+C:\Users\maria\source\repos\OOP_Task01\OOP_Task01\obj\Debug\OOP_Task01.pdb
